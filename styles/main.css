@@ -8,3 +8,9 @@ body{
     color:rgb(255, 255, 255);
 
 }
+
+.container{
+    background:#333;
+    color:rgb(255, 255, 255);
+    font-family:'Comic Sans';
+}
