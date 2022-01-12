@@ -34,11 +34,8 @@ p.txtcont{
 
 .logo {
     border-radius: 50%;
-    height: 150px;
+    height: 3000px;
     width: 300px;
-    margin-right: auto;
-    margin-left: auto;
-    position: relative center;
-    background-color: #393;
+   
 }
 
