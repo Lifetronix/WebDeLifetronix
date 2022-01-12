@@ -22,6 +22,19 @@ p.txtcont{
     font-family:'Comic Sans';
     font-size: 70px;}
 
+
+.img1{
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+
+
+
 .logo {
     border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    
 }
