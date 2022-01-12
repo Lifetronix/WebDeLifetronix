@@ -22,3 +22,6 @@ p.txtcont{
     font-family:'Comic Sans';
     font-size: 70px;}
 
+.logo {
+    border-radius: 50%;
+}
