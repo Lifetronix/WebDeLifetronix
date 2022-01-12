@@ -36,7 +36,5 @@ p.txtcont{
     border-radius: 50%;
     height: 300px;
     width: 300px;
-    opacity: 0.5;
-    filter: alpha(opacity=50); /* Para IE8 y anteriores
     
 }
