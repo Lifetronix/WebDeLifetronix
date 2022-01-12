@@ -38,6 +38,7 @@ p.txtcont{
     width: 300px;
     margin-right: auto;
     margin-left: auto;
+    position: relative center;
     background-color: #393;
 }
 
